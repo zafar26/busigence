@@ -18,7 +18,6 @@ marshmallow==2.19.5
 marshmallow-sqlalchemy==0.17.0
 mccabe==0.6.1
 nodejs==0.1.1
-numpy==1.17.1
 optional-django==0.1.0
 pandas==0.25.1
 psycopg2==2.8.3
