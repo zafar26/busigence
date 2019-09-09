@@ -19,3 +19,8 @@ marshmallow-sqlalchemy==0.17.0
 mccabe==0.6.1
 nodejs==0.1.1
 optional-django==0.1.0
+psycopg2==2.8.3
+python-dateutil==2.8.0
+requests==2.22.0
+SQLAlchemy==1.3.5
+sqlparse==0.3.0
